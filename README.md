@@ -25,3 +25,4 @@ Debian patches by Rafael Laboissiere applied from  https://anonscm.debian.org/cg
 * refresh-index-empty
 * drop-rolorc-manpage
 * use-ncursesw
+* drop-libform
