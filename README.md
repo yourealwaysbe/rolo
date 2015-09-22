@@ -23,3 +23,4 @@ Debian patches by Rafael Laboissiere applied from  https://anonscm.debian.org/cg
 
 * manpage-close-list
 * refresh-index-empty
+* drop-rolorc-manpage
