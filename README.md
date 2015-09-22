@@ -19,5 +19,6 @@ to avoid automatic changes to INSTALL making it into the git history.
 
 ## Changes to Original
 
-No changes to the original code as yet -- merely an alternative repo as a
-protection against bit rot.
+Debian patches applied from  https://anonscm.debian.org/cgit/users/rafael/deb-pkg/rolo.git
+
+*  Rafael Laboissiere's manpage-close-list patch.
